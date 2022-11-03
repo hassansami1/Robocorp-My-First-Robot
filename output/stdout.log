@@ -1,0 +1,16 @@
+==============================================================================
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves the order H...
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | FAIL |
+Teardown failed:
+Several failures occurred:
+
+1) Aborted by user
+
+2) Evaluating expression '$result.submit == "Yes"' failed: AttributeError: 'NoneType' object has no attribute 'submit'
+------------------------------------------------------------------------------
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves th... | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  c:\Users\Hassan Sami\Documents\Robots\my-test-robot\output\output.xml
+Log:     c:\Users\Hassan Sami\Documents\Robots\my-test-robot\output\log.html
